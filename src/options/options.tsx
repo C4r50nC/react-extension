@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./options.css";
 
-const test = <p>Hello World!</p>;
+const test = <img src="icon.png" />;
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
