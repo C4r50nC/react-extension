@@ -30,6 +30,7 @@ module.exports = {
       title: "React Extension",
       filename: "popup.html",
       chunks: ["popup"],
+      template: "src/popup/popup.html",
     }),
   ],
   resolve: {
