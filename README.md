@@ -1,6 +1,6 @@
 # React Extension
 
-Chrome extension in React.
+Chrome extension template in React.
 
 ## How To Use
 
