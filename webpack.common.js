@@ -62,7 +62,6 @@ function getHtmlPlugins(chunks) {
         title: "React Extension",
         filename: `${chunk}.html`,
         chunks: [chunk],
-        template: `src/${chunk}/${chunk}.html`,
       })
   );
 }
